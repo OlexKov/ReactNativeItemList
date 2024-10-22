@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     width: "90%",
     marginLeft: "5%",
     alignItems: "center",
-    gap: 10,
+    gap: 5,
   },
   sectionTitle: {
     fontSize: 24,
